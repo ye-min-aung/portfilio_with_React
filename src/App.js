@@ -510,10 +510,10 @@ const Portfolio = () => {
                             <div className="mt-8">
                                 <h4 className="text-xl font-semibold text-gray-900 mb-4">Follow Me</h4>
                                 <div className="flex space-x-4">
-                                    <a href="#" className="bg-gray-900 text-white p-3 rounded-lg hover:bg-gray-800 transition-colors duration-300">
+                                    <a href="https://github.com/ye-min-aung" className="bg-gray-900 text-white p-3 rounded-lg hover:bg-gray-800 transition-colors duration-300">
                                         <Github className="w-6 h-6" />
                                     </a>
-                                    <a href="#" className="bg-blue-600 text-white p-3 rounded-lg hover:bg-blue-700 transition-colors duration-300">
+                                    <a href="https://www.linkedin.com/in/ye-min-aung-692b4616b" className="bg-blue-600 text-white p-3 rounded-lg hover:bg-blue-700 transition-colors duration-300">
                                         <Linkedin className="w-6 h-6" />
                                     </a>
                                 </div>
